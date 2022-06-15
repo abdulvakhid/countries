@@ -261,7 +261,7 @@ background-image: url("../images/icon-search-white.svg");
 }
 
 .topic {
-     margin: 0;
+     margin: 0px;
      margin-bottom: 16px;
      font-family: var(--main-font-family);
      font-style: normal;
@@ -273,9 +273,9 @@ background-image: url("../images/icon-search-white.svg");
 
 .text {
      margin: 0;
-     margin-bottom: 8px;
-     font-family: --main-font-family Sans';
-font-style: normal;
+     margin-bottom:8px;
+     font-family: --main-font-family;
+     font-style: normal;
      font-weight: 600;
      font-size: 14px;
      line-height: 16px;
